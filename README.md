@@ -5,7 +5,7 @@ In this project, I will be creating a basic recipe website using **HTML**.
 
 ## I will be demonstrating the following skills:
 - Structuring web pages with HTML.
-- Utilize HTML tags for better accessibility and SEO.
+- Effectively utilize HTML tags.
 - Effectively organize content to create a clean and readable layout.
 - Embedding images and creating links for navigation.
 
